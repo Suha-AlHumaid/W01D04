@@ -34,7 +34,38 @@
     border-style: none;
 
 }
-.list {
- 
-    
+.list{
+    margin: 5px;
+}
+.btns
+{
+    margin: 30px;
+}
+.btn1
+{
+    background-color: #03a9f4;
+    color: white;
+    height: 20px;
+    width: auto;
+
+    border-radius: 10px;
+    border-style: none;
+}
+.btn2
+{
+    background-color: red;
+    color: white;
+    height: 20px;
+    width: auto;
+    border-radius: 10px;
+    border-style: none;
+}
+.btn3
+{
+    background-color: green;
+    color: white;
+    height: 20px;
+    width: auto;
+    border-radius: 10px;
+    border-style: none;
 }
