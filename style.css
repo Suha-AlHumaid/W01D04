@@ -21,31 +21,19 @@
  
 }
 .input {
-  margin: 20px;
+  margin-left: 15px;
   display: flex;
   flex-direction: column;
 }
 #btnInput {
     background-color: #03a9f4;
-    color: white;
-    height: 25px;
-    width: 80px;
-    border-radius: 10px;
-    border-style: none;
+}
 
-}
-.list{
-    margin: 5px;
-}
-.btns
+.section2
 {
-    margin: 30px;
-    color: white;
-    height: 25px;
-    width: auto;
-    border-radius: 10px;
-    border-style: none;
+    margin-left: 10px;
 }
+
 #btn1
 {
     background-color: #03a9f4;
@@ -59,4 +47,15 @@
 {
     background-color: #81c784;
 
+}
+
+.btns {
+    margin-left: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    height: 25px;
+    width: auto;
+    border-radius: 10px;
+    border-style: none;
 }
