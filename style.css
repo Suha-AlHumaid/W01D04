@@ -1,5 +1,5 @@
-*{
-    font-family:Arial, Helvetica, sans-serif
+* {
+  font-family: Arial, Helvetica, sans-serif;
 }
 .greenBox {
   background-color: #b3e6b5;
@@ -17,8 +17,7 @@
   height: 70%;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
- 
+  justify-content: space-evenly;
 }
 .input {
   margin-left: 15px;
@@ -26,36 +25,30 @@
   flex-direction: column;
 }
 #btnInput {
-    background-color: #03a9f4;
+  background-color: #03a9f4;
 }
 
-.section2
-{
-    margin-left: 10px;
+.section2 {
+  margin-left: 10px;
 }
 
-#btn1
-{
-    background-color: #03a9f4;
+#btn1 {
+  background-color: #03a9f4;
 }
-#btn2
-{
-    background-color: #d32f2f;
-
+#btn2 {
+  background-color: #d32f2f;
 }
-#btn3
-{
-    background-color: #81c784;
-
+#btn3 {
+  background-color: #81c784;
 }
 
 .btns {
-    margin-left: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    color: white;
-    height: 25px;
-    width: auto;
-    border-radius: 10px;
-    border-style: none;
+  margin-left: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white;
+  height: 25px;
+  width: auto;
+  border-radius: 10px;
+  border-style: none;
 }

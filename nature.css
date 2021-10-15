@@ -2,39 +2,37 @@
   margin: 0 auto;
   box-sizing: border-box;
   /* font-family: Arial, Helvetica, sans-serif; */
-   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 :root {
   --lightBalck: #5a5656;
 }
 
 .wrapper {
-  max-width: 100% ;
+  max-width: 100%;
   margin: 0;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 130%;
   background-image: url("tree.jpg");
- 
 }
 header {
   height: 100px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  border-bottom: 0.5px solid lightgray
+  border-bottom: 0.5px solid lightgray;
 }
 .logo {
   width: 30%;
   /* display: flex;
   justify-content: center; */
   color: var(--lightBalck);
- 
 }
 .nav {
   margin-right: 15px;
   width: 70%;
-  
+
   display: flex;
   justify-content: flex-end;
 }
@@ -42,7 +40,6 @@ a {
   color: var(--lightBalck);
   text-decoration: none;
   font-weight: bold;
-
 }
 
 ul {
@@ -73,7 +70,6 @@ h2 {
   text-align: left;
   font-size: 1rem;
   color: var(--lightBalck);
-
 }
 .bannerTitle {
   margin-bottom: 15px;
@@ -87,4 +83,5 @@ h2 {
   font-size: 2em;
 }
 p {
-    font-size: 2em}
+  font-size: 2em;
+}
